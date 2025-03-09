@@ -24,6 +24,8 @@ namespace XdThucDonDinhDuong.GUI
 
         private void FormDsUsers_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'quanLyThucDonDataSet.QlyUser' table. You can move, or remove it, as needed.
+            this.qlyUserTableAdapter.Fill(this.quanLyThucDonDataSet.QlyUser);
 
         }
 
@@ -39,6 +41,14 @@ namespace XdThucDonDinhDuong.GUI
 
         private void dgvDsUsers_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+
+        }
+
+        private void qlyUserBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.qlyUserBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.quanLyThucDonDataSet);
 
         }
     }

@@ -66,6 +66,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyThucDonDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyThucDonDataSet.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="GUI\FormDsUsers.resx">
       <DependentUpon>FormDsUsers.cs</DependentUpon>
     </EmbeddedResource>
@@ -93,6 +98,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="QuanLyThucDonDataSet.xsc">
+      <DependentUpon>QuanLyThucDonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyThucDonDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyThucDonDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyThucDonDataSet.xss">
+      <DependentUpon>QuanLyThucDonDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
