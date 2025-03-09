@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-  
+            
             this.label1 = new System.Windows.Forms.Label();
             this.dgvDsUsers = new System.Windows.Forms.DataGridView();
             this.btnAdd = new System.Windows.Forms.Button();
