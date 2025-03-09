@@ -49,8 +49,6 @@
             this.phiếuXuấtKhoThựcPhẩmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.phiếuTồnKhoThựcPhẩmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripLabel4 = new System.Windows.Forms.ToolStripLabel();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -211,22 +209,11 @@
             this.toolStripLabel4.Text = "Trợ giúp";
             this.toolStripLabel4.Click += new System.EventHandler(this.toolStripLabel4_Click);
             // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(512, 114);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(95, 20);
-            this.checkBox1.TabIndex = 1;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
             // FormTrangChu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.toolStrip1);
             this.Name = "FormTrangChu";
             this.Text = "Form1";
@@ -261,7 +248,5 @@
         private System.Windows.Forms.ToolStripMenuItem phiếuNhậpKhoThựcPhẩmToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem phiếuXuấtKhoThựcPhẩmToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem phiếuTồnKhoThựcPhẩmToolStripMenuItem;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
-        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
