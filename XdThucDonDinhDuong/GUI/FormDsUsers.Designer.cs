@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dangNhapTableAdapter1 = new XdThucDonDinhDuong.Entity.QuanLyThucDonDataSet2TableAdapters.DangNhapTableAdapter();
+  
             this.label1 = new System.Windows.Forms.Label();
             this.dgvDsUsers = new System.Windows.Forms.DataGridView();
             this.btnAdd = new System.Windows.Forms.Button();
@@ -37,7 +37,7 @@
             // 
             // dangNhapTableAdapter1
             // 
-            this.dangNhapTableAdapter1.ClearBeforeFill = true;
+           
             // 
             // label1
             // 
@@ -90,7 +90,7 @@
 
         #endregion
 
-        private Entity.QuanLyThucDonDataSet2TableAdapters.DangNhapTableAdapter dangNhapTableAdapter1;
+        
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridView dgvDsUsers;
         private System.Windows.Forms.Button btnAdd;

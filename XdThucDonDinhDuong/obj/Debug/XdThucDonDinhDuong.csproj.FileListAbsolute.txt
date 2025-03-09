@@ -1,4 +1,6 @@
 D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.csproj.AssemblyReference.cache
+D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.GUI.FormDsUsers.resources
+D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.GUI.FormTrangChu.resources
 D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.FrmAddUsers.resources
 D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.Properties.Resources.resources
 D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.csproj.GenerateResource.cache
@@ -8,5 +10,3 @@ D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\bin\Debug\XdThucDonDinhDuong.ex
 D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\bin\Debug\XdThucDonDinhDuong.pdb
 D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.exe
 D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.pdb
-D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.GUI.FormTrangChu.resources
-D:\Winform\XdThucDonDinhDuong\XdThucDonDinhDuong\obj\Debug\XdThucDonDinhDuong.GUI.FormDsUsers.resources

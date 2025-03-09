@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|solutionrelative:xdthucdondinhduong\\gui\\formdsusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|d:\\winform\\xdthucdondinhduong\\xdthucdondinhduong\\gui\\formdsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|D:\\Winform\\XdThucDonDinhDuong\\xdthucdondinhduong\\gui\\formdsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|solutionrelative:xdthucdondinhduong\\gui\\formdsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|D:\\Winform\\XdThucDonDinhDuong\\xdthucdondinhduong\\gui\\formdsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|solutionrelative:xdthucdondinhduong\\gui\\formdsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|d:\\winform\\xdthucdondinhduong\\xdthucdondinhduong\\gui\\formaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|D:\\Winform\\XdThucDonDinhDuong\\xdthucdondinhduong\\gui\\formaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|solutionrelative:xdthucdondinhduong\\gui\\formaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|D:\\Winform\\XdThucDonDinhDuong\\xdthucdondinhduong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|solutionrelative:xdthucdondinhduong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826B3B14-8D70-4641-9DED-C9DCFFCE61D6}|XdThucDonDinhDuong\\XdThucDonDinhDuong.csproj|D:\\Winform\\XdThucDonDinhDuong\\xdthucdondinhduong\\gui\\formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,26 +43,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormDsUsers.cs",
+              "DocumentMoniker": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormDsUsers.cs",
+              "RelativeDocumentMoniker": "XdThucDonDinhDuong\\GUI\\FormDsUsers.cs",
+              "ToolTip": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormDsUsers.cs",
+              "RelativeToolTip": "XdThucDonDinhDuong\\GUI\\FormDsUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:36:26.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\Program.cs",
+              "RelativeDocumentMoniker": "XdThucDonDinhDuong\\Program.cs",
+              "ToolTip": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\Program.cs",
+              "RelativeToolTip": "XdThucDonDinhDuong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:44:06.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormDsUsers.cs [Design]",
               "DocumentMoniker": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormDsUsers.cs",
               "RelativeDocumentMoniker": "XdThucDonDinhDuong\\GUI\\FormDsUsers.cs",
               "ToolTip": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormDsUsers.cs [Design]",
               "RelativeToolTip": "XdThucDonDinhDuong\\GUI\\FormDsUsers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:47:27.546Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-08T13:47:27.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FormAddUsers.cs [Design]",
               "DocumentMoniker": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormAddUsers.cs",
               "RelativeDocumentMoniker": "XdThucDonDinhDuong\\GUI\\FormAddUsers.cs",
               "ToolTip": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormAddUsers.cs [Design]",
               "RelativeToolTip": "XdThucDonDinhDuong\\GUI\\FormAddUsers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:47:22.362Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-08T13:47:22.362Z"
             },
             {
               "$type": "Document",
@@ -64,22 +94,21 @@
               "RelativeDocumentMoniker": "XdThucDonDinhDuong\\GUI\\FormDsUsers.Designer.cs",
               "ToolTip": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormDsUsers.Designer.cs",
               "RelativeToolTip": "XdThucDonDinhDuong\\GUI\\FormDsUsers.Designer.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAawFwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T13:47:16.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FormTrangChu.cs [Design]",
               "DocumentMoniker": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormTrangChu.cs",
               "RelativeDocumentMoniker": "XdThucDonDinhDuong\\GUI\\FormTrangChu.cs",
               "ToolTip": "D:\\Winform\\XdThucDonDinhDuong\\XdThucDonDinhDuong\\GUI\\FormTrangChu.cs [Design]",
               "RelativeToolTip": "XdThucDonDinhDuong\\GUI\\FormTrangChu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:12:03.486Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-06T15:12:03.486Z"
             }
           ]
         }

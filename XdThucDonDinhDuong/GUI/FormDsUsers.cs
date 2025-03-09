@@ -13,7 +13,6 @@ namespace XdThucDonDinhDuong.GUI
 {
     public partial class FormDsUsers: Form
     {
-        private string connectionString = ConfigurationManager.ConnectionStrings["MyDBConnection"].ConnectionString;
         public FormDsUsers()
         {
             InitializeComponent();
